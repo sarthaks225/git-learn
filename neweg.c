@@ -1,1 +1,1 @@
-new file
+feature2 file
